@@ -194,9 +194,9 @@ __Where is your solution's source hosted?__
 
 **Scale of Solution:** 
 <br>Additional information highlighting the extent and scale of your solution's implementation and success. 
-* Where was this solution developed?*: _Please select one or more countries._
 * Where is this solution actively deployed?*: _Please select one or more countries._
-* Are there any multi-lateral organisations using your solution?: _Please select from the options below._
-* Are there any governments departments and/or ministries using your solution?: _Please enter a list country governments, ministries, public bodies that have adopted your solution._
-* Who else is using your solution?: _Please enter any other organization or body not covered in above questions that have adopted your solution_
-* Has your solution received any awards and/or recognition in the last one year?: _Please enter a list of awards and/or recognition recieved along with the awarding organisation, award title and a link to a certificate or document or image that verifies your claim for each._ 
+* Who else is using your solution?: _Please enter any other organization, multilateral, government, or body that has adopted your solution and if possible specify at what scale or for what use case it has been implemented._
+* Is your solution designed to support different languages or regions? _Please indicate if the solution has infrastructure in place or is otherwise designed to be multilingual._
+* Available languages _If present, enter the languages in which the solution is available._
+* Has your solution been part of any of these programs? _Please select from the options below. This could be current or former participation._
+* Highlights/ Learn more _Enter a list of links to public posts, use cases of the solution, or other prominent material to be showcased or that you would like us to know about. For example, links to videos, demos, how it works, visuals, etc._
