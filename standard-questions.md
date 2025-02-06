@@ -72,9 +72,13 @@ __Where is your solution's source hosted?__
                     </li>
                     <li>Provide evidence(s) of ownership.*<br>Please provide link(s) to the copyright, trademarks, or publicly available ownership documentation for the digital solutions. It could be a webpage that clearly defines who owns the digital solution. Terms of Service may also indicate the ownership of the digital solutions. Additional legal documentation that provides supporting information will strengthen your application. Digital solutions owned by a parent organisation, could highlight the digital solutions on their website to strengthen the application.
                     </li>  
-                    <li>Do you own all of the content and/or data in this collection?* <br>For content collections and data sets, please indicate whether all of the content/data included in the collection are owned/licensed by the owner indicated above. This is a yes or no question.
+                    <li>Type of organisation that owns the solution: <br>Please select the one that is most applicable to your solution.
                     </li>
-                    <li>[If No] Do you have the right to re-distribute this data/content?* <br>Provide evidence to demonstrate the right to reproduce and/or distribute all of the content or data sets included in the collection. Acceptable evidence includes licensing agreements for copyright work or evidence of public domain for copyright-free work.  
+                    <li> Where is the owner based?* <br>Please select the country where the organization is legally established or registered.
+                    </li>
+                    <li> Do you own all of the code, content and/or data in this collection?* <br>For content collections and data sets, please indicate whether all of the content/data included in the collection are owned/licensed by the owner indicated above. For software please indicate if you own the code copyright. This is a yes or no question.
+                    </li>
+                    <li>[If No] Do you have the right to re-distribute this data, content or code?* <br>Provide evidence to demonstrate the right to reproduce and/or distribute all of the content or data sets included in the collection. Acceptable evidence includes licensing agreements for copyright work or evidence of public domain for copyright-free work. For code, this could be a Contributor License Agreement.
                     </li>
                 </ul>
             </td>
