@@ -105,7 +105,7 @@ __Where is your solution's source hosted?__
             </td>
         </tr>
         <tr>
-            <td valign="top">6. Non-PII Data Extraction</td>
+            <td valign="top">6. Mechanism for Extracting Data</td>
             <td valign="top">If your solution collects or uses non-PII data and/or content, then there must be mechanisms for extracting or importing non-PII data from or into the system in a non-proprietary format.</td>
             <td valign="top">
                 <ul>
@@ -132,7 +132,7 @@ __Where is your solution's source hosted?__
             </td>
         </tr>
         <tr>
-            <td valign="top">8. Open Standards & Best Practices</td>
+            <td valign="top">8. Standards & Best Practices</td>
             <td valign="top">Your digital solution must comply with relevant standards, best practices and/or principles.</td>
             <td valign="top">
                 <ul>
