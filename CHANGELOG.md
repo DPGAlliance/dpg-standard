@@ -4,6 +4,18 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.6] 2024-07-01
+
+### Added
+- Added question under Indicator 3 "clear ownership" for content collections and data sets ([#178](https://github.com/DPGAlliance/DPG-Standard/pull/178))
+
+### Changed
+- Changed governance.md to reflect the most up-to-date procedures and information ([#182](https://github.com/DPGAlliance/DPG-Standard/pull/178), [#187](https://github.com/DPGAlliance/DPG-Standard/pull/187))
+- Changed approved licenses and PII data documentation links on standards.md ([#188](https://github.com/DPGAlliance/DPG-Standard/pull/188))
+
+### Deprecated
+- Deprecated archiving.md and endorsement.md policies which are now migrated to the DPG Wiki ([#180](https://github.com/DPGAlliance/DPG-Standard/pull/180))
+
 ## [1.1.5] 2023-03-17
 
 ### Added
