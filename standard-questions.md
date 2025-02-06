@@ -72,9 +72,13 @@ __Where is your solution's source hosted?__
                     </li>
                     <li>Provide evidence(s) of ownership.*<br>Please provide link(s) to the copyright, trademarks, or publicly available ownership documentation for the digital solutions. It could be a webpage that clearly defines who owns the digital solution. Terms of Service may also indicate the ownership of the digital solutions. Additional legal documentation that provides supporting information will strengthen your application. Digital solutions owned by a parent organisation, could highlight the digital solutions on their website to strengthen the application.
                     </li>  
-                    <li>Do you own all of the content and/or data in this collection?* <br>For content collections and data sets, please indicate whether all of the content/data included in the collection are owned/licensed by the owner indicated above. This is a yes or no question.
+                    <li>Type of organisation that owns the solution: <br>Please select the one that is most applicable to your solution.
                     </li>
-                    <li>[If No] Do you have the right to re-distribute this data/content?* <br>Provide evidence to demonstrate the right to reproduce and/or distribute all of the content or data sets included in the collection. Acceptable evidence includes licensing agreements for copyright work or evidence of public domain for copyright-free work.  
+                    <li> Where is the owner based?* <br>Please select the country where the organization is legally established or registered.
+                    </li>
+                    <li> Do you own all of the code, content and/or data in this collection?* <br>For content collections and data sets, please indicate whether all of the content/data included in the collection are owned/licensed by the owner indicated above. For software please indicate if you own the code copyright. This is a yes or no question.
+                    </li>
+                    <li>[If No] Do you have the right to re-distribute this data, content or code?* <br>Provide evidence to demonstrate the right to reproduce and/or distribute all of the content or data sets included in the collection. Acceptable evidence includes licensing agreements for copyright work or evidence of public domain for copyright-free work. For code, this could be a Contributor License Agreement.
                     </li>
                 </ul>
             </td>
@@ -105,7 +109,7 @@ __Where is your solution's source hosted?__
             </td>
         </tr>
         <tr>
-            <td valign="top">6. Non-PII Data Extraction</td>
+            <td valign="top">6. Mechanism for Extracting Data</td>
             <td valign="top">If your solution collects or uses non-PII data and/or content, then there must be mechanisms for extracting or importing non-PII data from or into the system in a non-proprietary format.</td>
             <td valign="top">
                 <ul>
@@ -132,7 +136,7 @@ __Where is your solution's source hosted?__
             </td>
         </tr>
         <tr>
-            <td valign="top">8. Open Standards & Best Practices</td>
+            <td valign="top">8. Standards & Best Practices</td>
             <td valign="top">Your digital solution must comply with relevant standards, best practices and/or principles.</td>
             <td valign="top">
                 <ul>
@@ -155,7 +159,7 @@ __Where is your solution's source hosted?__
                         <br>PII data can be collected and stored but NOT distributed. 
                         <br>PII data can be collected and stored and distributed.
                     </li>
-                    <li>What are the types of data that are collected / stored / distributed?<br>Please list the types of PII data. Example: Name, Email, etc.</li>
+                    <li>What are the types of data that can be collected / stored / distributed?<br>Please list the types of PII data. Example: Name, Email, etc.</li>
                     <li>How does your solution ensure data privacy & security?<br>Please demonstrate how the solution can ensure the privacy, security and integrity of PII data and the steps taken to prevent adverse impacts resulting from its collection, storage and distribution.
                     </li>
                 </ul>
@@ -167,9 +171,9 @@ __Where is your solution's source hosted?__
             </td>
             <td valign="top">
                 <ul>
-                    <li>Does your solution collect / store / distribute content?*<br>Please select the option that is applicable for your solution. <br>Content is NOT collected NOT stored and NOT distributed. <br>Content is collected but NOT stored and NOT distributed. <br>Content is collected and stored but NOT distributed.<br>Content is collected and stored and distributed.
+                    <li>Does your solution allow the collection / storage / distribution of content?*<br>Please select the option that is applicable for your solution. <br>Content is NOT collected NOT stored and NOT distributed. <br>Content is collected but NOT stored and NOT distributed. <br>Content is collected and stored but NOT distributed.<br>Content is collected and stored and distributed.
                     </li>
-                    <li>What are the types of content that is collected / stored / distributed?<br>Please list the types of content.
+                    <li>What are the types of content that can be collected / stored / distributed?<br>Please list the types of content.
                     </li>
                     <li>How does your solution handles inappropriate and illegal content?<br>Please describe (1) the policies for identifying inappropriate and illegal content and (2) the processes for detecting, moderating, reporting and removing inappropriate / illegal content. Please include the average response time for assessment and/or action.
                     </li>
@@ -182,7 +186,7 @@ __Where is your solution's source hosted?__
             </td>
             <td valign="top">
                 <ul>
-                    <li>Does your solution facilitate interactions with or between users and/or contributors?*<br>Yes or No. Please select the option that is applicable for your solution. You will be required to answer the next question if you select Yes.
+                    <li>Does your solution facilitate or enable interactions with or between users and/or contributors?*<br>Yes or No. Please select the option that is applicable for your solution. You will be required to answer the next question if you select Yes.
                     </li>
                     <li>How does your solution enables users and contributors to protect themselves from harassment? <br>Please describe (1) policies such as a code of conduct and processes users and contributors can use to protect themselves and (2) processes that addresses the safety and security of underage users.
                     </li>
@@ -194,9 +198,9 @@ __Where is your solution's source hosted?__
 
 **Scale of Solution:** 
 <br>Additional information highlighting the extent and scale of your solution's implementation and success. 
-* Where was this solution developed?*: _Please select one or more countries._
-* Where is this solution actively deployed?*: _Please select one or more countries._
-* Are there any multi-lateral organisations using your solution?: _Please select from the options below._
-* Are there any governments departments and/or ministries using your solution?: _Please enter a list country governments, ministries, public bodies that have adopted your solution._
-* Who else is using your solution?: _Please enter any other organization or body not covered in above questions that have adopted your solution_
-* Has your solution received any awards and/or recognition in the last one year?: _Please enter a list of awards and/or recognition recieved along with the awarding organisation, award title and a link to a certificate or document or image that verifies your claim for each._ 
+* Where is this solution actively deployed?: _Please select one or more countries._
+* Who else is using your solution?: _Please enter any other organization, multilateral, government, or body that has adopted your solution and if possible specify at what scale or for what use case it has been implemented._
+* Is your solution designed to support different languages or regions?: _Please indicate if the solution has infrastructure in place or is otherwise designed to be multilingual._
+* Available languages: _If present, enter the languages in which the solution is available._
+* Has your solution been part of any of these programs?: _Please select from the options below. This could be current or former participation._
+* Highlights/ Learn more: _Enter a list of links to public posts, use cases of the solution, or other prominent material to be showcased or that you would like us to know about. For example, links to videos, demos, how it works, visuals, etc._
