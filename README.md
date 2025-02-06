@@ -20,7 +20,30 @@ The DPG Standard establishes a baseline that must be met in order to earn recogn
 
 We encourage creators, maintainers, funders, implementers, and consumers to use this standard to recognize, assess, and support digital public goods. The standard is operationalized through a [questionary](https://app.digitalpublicgoods.net/form) that is required as part of the assessment process. We maintain a list of digital public goods that meet the DPG Standard described above on [our registry](https://digitalpublicgoods.net/registry). Projects are reviewed annually and archived if they do not continue to meet the Standard, as per our [review policy](https://github.com/DPGAlliance/dpg-resources/blob/main/docs/dpg-review-policy.md).
 
-![DPG Application Review Policy](https://github.com/DPGAlliance/dpg-resources/blob/main/docs/assets/dpg-review-flow.png)
+```mermaid
+flowchart LR
+    A(Submit Application)
+    B(L1 Review)
+    A --> B
+    B --> C(L2 Review)
+    C --> D(Waiting for Consultation &lpar;Expert Reviewer&rpar;)
+    D --> C
+    C --> F{Decision}
+    C --> E(Waiting for Clarifications &lpar;Applicant&rpar;)
+    E --> A
+    F -->|Yes| G(DPG)
+    F -->|No| H(Inelligible)
+    classDef default font-variant:small-caps,font-family:courier,stroke:#333,color:#000;
+    style A fill:#FBF7EF;
+    style B fill:#FAC610;
+    style C fill:#FAC610;
+    style D fill:#FE7F80;
+    style E fill:#12CDD4;
+    style F fill:#E6E6E6;
+    style G fill:#8ED14F;
+    style H fill:#F24726;
+  
+```
 
 We apply the DPG Standard to projects that have been [nominated directly](https://app.digitalpublicgoods.net/form). Solutions submitted to our platform will undergo two stages of review to ensure they meet the requirements set in the DPG Standard. As a project undergoes various reviews it will move from **nominee** to a fully reviewed **digital public good**. If a project meets the DPG Standard it will be officially considered a digital public good and will appear as such in the DPG Registry, and may be eligible for additional recognition and support.
 
