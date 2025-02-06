@@ -155,7 +155,7 @@ __Where is your solution's source hosted?__
                         <br>PII data can be collected and stored but NOT distributed. 
                         <br>PII data can be collected and stored and distributed.
                     </li>
-                    <li>What are the types of data that are collected / stored / distributed?<br>Please list the types of PII data. Example: Name, Email, etc.</li>
+                    <li>What are the types of data that can be collected / stored / distributed?<br>Please list the types of PII data. Example: Name, Email, etc.</li>
                     <li>How does your solution ensure data privacy & security?<br>Please demonstrate how the solution can ensure the privacy, security and integrity of PII data and the steps taken to prevent adverse impacts resulting from its collection, storage and distribution.
                     </li>
                 </ul>
@@ -167,9 +167,9 @@ __Where is your solution's source hosted?__
             </td>
             <td valign="top">
                 <ul>
-                    <li>Does your solution collect / store / distribute content?*<br>Please select the option that is applicable for your solution. <br>Content is NOT collected NOT stored and NOT distributed. <br>Content is collected but NOT stored and NOT distributed. <br>Content is collected and stored but NOT distributed.<br>Content is collected and stored and distributed.
+                    <li>Does your solution allow the collection / storage / distribution of content?*<br>Please select the option that is applicable for your solution. <br>Content is NOT collected NOT stored and NOT distributed. <br>Content is collected but NOT stored and NOT distributed. <br>Content is collected and stored but NOT distributed.<br>Content is collected and stored and distributed.
                     </li>
-                    <li>What are the types of content that is collected / stored / distributed?<br>Please list the types of content.
+                    <li>What are the types of content that can be collected / stored / distributed?<br>Please list the types of content.
                     </li>
                     <li>How does your solution handles inappropriate and illegal content?<br>Please describe (1) the policies for identifying inappropriate and illegal content and (2) the processes for detecting, moderating, reporting and removing inappropriate / illegal content. Please include the average response time for assessment and/or action.
                     </li>
@@ -182,7 +182,7 @@ __Where is your solution's source hosted?__
             </td>
             <td valign="top">
                 <ul>
-                    <li>Does your solution facilitate interactions with or between users and/or contributors?*<br>Yes or No. Please select the option that is applicable for your solution. You will be required to answer the next question if you select Yes.
+                    <li>Does your solution facilitate or enable interactions with or between users and/or contributors?*<br>Yes or No. Please select the option that is applicable for your solution. You will be required to answer the next question if you select Yes.
                     </li>
                     <li>How does your solution enables users and contributors to protect themselves from harassment? <br>Please describe (1) policies such as a code of conduct and processes users and contributors can use to protect themselves and (2) processes that addresses the safety and security of underage users.
                     </li>
