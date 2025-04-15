@@ -171,7 +171,7 @@ __Where is your solution's source hosted?__
                     </li>
                     <li>What are the types of content that is collected / stored / distributed?<br>Please list the types of content.
                     </li>
-                    <li>How does your solution handles inappropriate and illegal content?<br>Please describe (1) the policies for identifying inappropriate and illegal content and (2) the processes for detecting, moderating, reporting and removing inappropriate / illegal content. Please include the average response time for assessment and/or action.
+                    <li>How does your solution handle inappropriate and illegal content?<br>Please describe (1) the policies for identifying inappropriate and illegal content and (2) the processes for detecting, moderating, reporting and removing inappropriate / illegal content. Please include the average response time for assessment and/or action.
                     </li>
                 </ul>
             </td>
@@ -184,7 +184,7 @@ __Where is your solution's source hosted?__
                 <ul>
                     <li>Does your solution facilitate interactions with or between users and/or contributors?*<br>Yes or No. Please select the option that is applicable for your solution. You will be required to answer the next question if you select Yes.
                     </li>
-                    <li>How does your solution enables users and contributors to protect themselves from harassment? <br>Please describe (1) policies such as a code of conduct and processes users and contributors can use to protect themselves and (2) processes that addresses the safety and security of underage users.
+                    <li>How does your solution enable users and contributors to protect themselves from harassment? <br>Please describe (1) policies such as a code of conduct and processes users and contributors can use to protect themselves and (2) processes that address the safety and security of underage users.
                     </li>
                 </ul>
             </td>
