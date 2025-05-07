@@ -56,7 +56,7 @@ __Where is your solution's source hosted?__
             </td>
             <td valign="top">
                 <ul>
-                    <li>Which open license(s) is/are used by your solution? <br>Please <a href="https://github.com/DPGAlliance/publicgoods-candidates/blob/main/help-center/licenses.md" target="_blank">refer here for the list of approved open licenses</a> accepted. (If you do not currently use one of the approved licenses, your solution cannot be approved as a DPG)
+                    <li>Which open license(s) is/are used by your solution? <br>Please <a href="https://github.com/DPGAlliance/dpg-resources/wiki/2.-Open-Licensing" target="_blank">refer here for the list of approved open licenses</a>. If you do not currently use one of the approved licenses, your solution cannot be approved as a DPG.
                     </li>
                     <li>Provide evidence of use of the selected open license(s).* <br>Please provide link(s) to public pages where the license(s) selected above are hosted for this project. This could be a license file in GitHub repository or a public URL on the project website.
                     </li>
@@ -76,19 +76,21 @@ __Where is your solution's source hosted?__
                     </li>
                     <li> Where is the owner based?* <br>Please select the country where the organization is legally established or registered.
                     </li>
-                    <li> Do you own all of the code, content and/or data in this collection?* <br>For content collections and data sets, please indicate whether all of the content/data included in the collection are owned/licensed by the owner indicated above. For software please indicate if you own the code copyright. This is a yes or no question.
+                    <li> Do you own all of the code, content and/or data in this solution?* <br>For open content collections and open datasets, please indicate whether all of the content/data is owned/licensed by the owner indicated above. For open software, please indicate if you own the code copyright. For open AI systems, please indicate if both the training data and code is owned or licensed.
                     </li>
-                    <li>[If No] Do you have the right to re-distribute this data, content or code?* <br>Provide evidence to demonstrate the right to reproduce and/or distribute all of the content or data sets included in the collection. Acceptable evidence includes licensing agreements for copyright work or evidence of public domain for copyright-free work. For code, this could be a Contributor License Agreement.
+                    <li>[If No] Do you have the right to re-distribute this data, content or code?* <br>Provide evidence to demonstrate the right to reproduce and/or distribute all of the content or datasets included in the solution. Acceptable evidence includes licensing agreements for copyright work or evidence of public domain for copyright-free work. For code, this could be a Contributor License Agreement.
                     </li>
                 </ul>
             </td>
         </tr>
         <tr>
             <td valign="top">4. Platform Independence</td>
-            <td valign="top">If your digital solution has any mandatory dependencies that create more restrictions than the original license, then there should be open alternatives so that such dependencies can be replaced with the alternatives without making significant changes to the core digital solution.</td>
+            <td valign="top">If your digital solution has mandatory dependencies that create more restrictions than the original license, proving independence from the closed component(s) and/or indicating the existence of functional, open alternatives that can be used without significant changes to the core product is required.</td>
             <td valign="top">
                 <ul>
-                    <li>Does this solution use any closed components that create proprietary dependency?* <br>Yes or No. You will be required to answer the next question if you select Yes.
+                    <li>Which are the core technologies your solution depends on? <br> Please provide a list of the core dependencies required to install and/or use the solution. This can include the main dependencies such as programming languages, frameworks, databases, and similar.
+                    </li>
+                    <li>Does this solution use any closed components that create proprietary dependency?* <br>Yes or No. You will be required to answer the next question if you select Yes. For AI systems, please consider dependencies for the code, the model and the data.
                     </li>
                     <li>How can these closed component(s) be replaced with open alternative(s)? <br>Please provide a list of the active open alternatives for the closed component(s) and demonstrate that these close component(s) can be replaced with those open alternatives with minimal configuration changes, without requiring a major overhaul of the entire system. This requirement can be best answered by a technical member of your team. Leave this blank if the above answer is No.
                     </li>
@@ -100,20 +102,23 @@ __Where is your solution's source hosted?__
             <td valign="top">Your digital solution must have strong documentation. The documentation should allow a technical person unfamiliar with the solution to launch and run the digital solution themselves.</td>
             <td valign="top">
                 <ul>
-                    <li>Where is your solution’s documentation?*<br>Please summarize how and where the solution is documented along with link(s) to all relevant documents.
-                    For software solutions, documentation could include an open repo, technical specifications, functional requirements, etc.
-                    For data sets or solutions, documentation could describe all the fields in the set, and provide context on how the data was collected and how it should be interpreted.
-                    For content, documentation could include relevant compatible apps, software, hardware required to access the content and any instructions on how to use it. For more details on documentation best practices, please visit this <a href="https://github.com/DPGAlliance/publicgoods-candidates/blob/main/help-center/documentation.md" target="_blank">link</a>
+                    <li>Where is your solution’s documentation?* <br>Please provide the link(s) to your solution documentation:
+                        <ul>
+                            <li>For <b>software</b>, documentation should include developer docs, technical architecture, user guides, etc. </li>
+                            <li>For <b>data</b>, documentation should include a data dictionary, metadata, and background information, including data sources, access instructions, etc. </li>
+                            <li>For <b>content</b>, documentation should include all relevant/compatible apps, software, or hardware required to access the content collection, and instructions regarding how to use it. </li>
+                            <li>For <b>AI systems</b>, documentation should include <a href="https://github.com/DPGAlliance/dpg-resources/wiki/5.-Documentation#open-ai-system" target="_blank">the following checklist</a>, which can be presented in a model card, datasheet, or any other format.</li>
+                        </ul>
                     </li>
                 </ul>
             </td>
         </tr>
         <tr>
             <td valign="top">6. Mechanism for Extracting Data</td>
-            <td valign="top">If your solution collects or uses non-PII data and/or content, then there must be mechanisms for extracting or importing non-PII data from or into the system in a non-proprietary format.</td>
+            <td valign="top">If your solution collects, uses or generates non-PII data and/or content, then there must be mechanisms for extracting or importing non-PII data from or into the system in a non-proprietary format.</td>
             <td valign="top">
                 <ul>
-                    <li>Does your solution collects or uses non-PII data and/or content?* <br> Yes or No. You will be required to answer the next question only if you collect or use non-PII data and/or content.
+                    <li>Does your solution collects, uses or generates non-PII data and/or content?* <br> Yes or No. You will be required to answer the next question only if you collect, use or generate non-PII data and/or content.
                     </li>
                     <li>Describe the mechanism for extracting or importing non-PII data from or into the system in a non-proprietary format. <br> Please provide a detailed description of how the non-PII data can be imported or exported into non-proprietary formats such as CSV/XML/JSON etc or via exposing the non-PII data through APIs.
                     </li> 
@@ -121,9 +126,6 @@ __Where is your solution's source hosted?__
             </td>
         </tr>
         <tr>
-            <td colspan="3" style="background-color:lightgrey">
-                Note that requirements related to indicators 7-9 can only be answered by someone authorized to speak on behalf of the project.
-            </td>
         </tr>
           <tr>
             <td valign="top">7. Privacy & Applicable Laws</td>
@@ -149,7 +151,7 @@ __Where is your solution's source hosted?__
         </tr>
         <tr>
             <td valign="top">9 A. Data Privacy & Security</td>
-            <td valign="top">If your digital solution allows implementors to collect, store and/or distribute PII data (personally identifiable information), then you must demonstrate how the privacy, security and integrity of this data can be ensured
+            <td valign="top">If your digital solution allows implementors to collect, store and/or distribute PII data (personally identifiable information), then you must demonstrate how the privacy, security and integrity of this data can be ensured. For AI systems, also consider if the training data contains PII data.
             </td>
             <td valign="top">
                 <ul>
@@ -166,8 +168,8 @@ __Where is your solution's source hosted?__
             </td>
         </tr>
         <tr>
-            <td valign="top">9 B. Inappropriate & Illegal Content</td>
-            <td valign="top">If your digital solution collects, stores and distributes content, then you must have policies identifying inappropriate and illegal content such as child sexual abuse materials in addition to processes for detecting, moderating, reporting and removing inappropriate/ illegal content.
+            <td valign="top">9 B. Inappropriate, Misleading & Illegal Content</td>
+            <td valign="top">If your digital solution collects, stores and distributes content or allows implementers, then you must have policies identifying inappropriate, misleading, and/or illegal content such as child sexual abuse materials in addition to processes for detecting, moderating, reporting, and removing such inappropriate, misleading, or illegal content.
             </td>
             <td valign="top">
                 <ul>
@@ -175,7 +177,7 @@ __Where is your solution's source hosted?__
                     </li>
                     <li>What are the types of content that can be collected / stored / distributed?<br>Please list the types of content.
                     </li>
-                    <li>How does your solution handle inappropriate and illegal content?<br>Please describe (1) the policies for identifying inappropriate and illegal content and (2) the processes for detecting, moderating, reporting and removing inappropriate / illegal content. Please include the average response time for assessment and/or action.
+                    <li>How does your solution handle inappropriate, misleading and illegal content?<br>Please describe (1) the policies for identifying inappropriate, misleading and illegal content and (2) the processes for detecting, moderating, reporting and removing inappropriate/ misleading / illegal content. Please include the average response time for assessment and/or action.
                     </li>
                 </ul>
             </td>
