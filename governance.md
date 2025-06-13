@@ -50,6 +50,22 @@ Before starting we recommend following these steps:
 2. If none of the open pull requests/issues address the issue you are proposing, start a new issue or edit the standard and open a new pull request with your edits, guided by the "one issue, one pull request" guideline. When opening a new pull request, be very explicit about the changes that you are proposing when making the case for your suggested changes. If your contribution is commentary or a general opinion, we will still review it, but we will deem it non-actionable and close it.
 3. Once your pull request has been submitted, follow the discussion that ensues.
 
+⚠️ **General Community Guidelines for Submitting New Issues or Suggestions** 
+
+Community members are encouraged to contribute ideas, report issues, or suggest improvements outside of formal proposals made by the DPG Standard Council by opening new issues or pull requests on GitHub. To facilitate productive engagement, please observe the following:
+
+1. 	**Be Clear and Specific**: Reference the exact indicator, section, or wording that your input is about. Use practical examples or implementation scenarios where applicable.
+2. 	**Offer Constructive Input**: Beyond identifying issues, suggest potential solutions or improvements. Even small revisions help the DPG Standard Council assess and prioritize feedback.
+3. 	**Maintain a Respectful and Collaborative Tone**: Focus on ideas rather than individuals. Assume good intent and promote an inclusive, solution oriented dialogue.
+4. 	**Follow the Provided Template**:
+You may use the broad template mentioned below to ensure your ideas are communicated clearly and constructively:
+·   	Context
+·   	Concern or Issue
+·   	Suggested Change
+·   	Rationale / Use Case
+·   	References (if any)
+5. 	**Stay Informed on the Review Process**: All community contributions are reviewed as part of the ongoing governance process. Updates and outcomes will be posted in the related GitHub threads, once they are addressed by the DPG Standard Council. Approved changes will appear in subsequent versions of the Standard and accordingly documented in the changelog.
+
 **3b(ii). Expert Input - Standard Expert Groups**
 
 Expert groups serve as forums for discussions and initiating amendments in areas where the Secretariat (via the Standards Council) identifies the need for greater discussion and guidance from the community on a topic. Expert groups are responsible for creating annexures of best practices for applicant compliance, researching, proposing modifications, and reviewing changes. They propose recommendations based on their discussions and deliberations. These proposals are submitted to the DPG Standard Council for review and consideration. Each proposal outlines specific changes, enhancements, or additions to the DPG Standard. Expert groups are comprised of external subject matter experts who participate in their personal capacity to ensure neutrality in standard development. To read more about the expert groups go [here](https://github.com/DPGAlliance/DPG-Standard/blob/main/expert-groups.md).
@@ -58,9 +74,37 @@ Expert groups serve as forums for discussions and initiating amendments in areas
 
 Once changes have been proposed, the Change Proposal Process is a crucial mechanism within the governance framework of the Digital Public Goods Standard to ensure that proposed changes to the standard undergo thorough review, consideration, and community engagement before being finalised and implemented.
 
+
 **3b(i) Proposing changes**
 
 Proposed changes to the DPG Standard made in the form of issues and/or pull requests through GitHub, which will then be taken up for discussion by the Standard Council. If the suggested changes are approved, these proposed changes will be published on GitHub for public comments for timeframes based on the type of change made (see below). This allows for transparency and accessibility, allowing stakeholders to review and provide feedback on proposed changes.
+
+**Template Followed by the DPG Standard Council for Proposing Changes to the DPG Standard**
+
+The DPG Standard Council follows a structured and transparent process when proposing changes to the DPG Standard. This ensures consistency, clarity, and traceability across all updates and facilitates meaningful engagement from the community.
+
+Where applicable, the following template is used by the Council when drafting and publishing a proposed change:
+
+1. **Title**: A concise and descriptive title that accurately reflects the focus of the proposed change.
+
+2. **Summary** of the Issue: A brief overview of the core issue, ambiguity, or gap identified in the current version of the Standard. This section is intended to provide a high-level understanding of the matter being addressed.
+
+3. **Background and Context**: To establish the rationale for the proposed change, this section outlines:
+* The specific part of the Standard the issue pertains to (e.g., indicator, definition, requirement for additional details or context)
+* The nature of the problem, ambiguity, or limitation in its current form
+* The significance of the issue and why addressing it is timely or necessary
+ 
+4. **Proposed Change**: A clear description of the recommended revision. This may involve new or revised text, removal of outdated content, or structural adjustments for improved clarity and coherence. This depends on the kind of change proposal made i.e. a minor, major or fundamental change.
+
+5. **Rationale**: An explanation of how the proposed change resolves the identified issue and strengthens the Standard. This usually highlights the expected benefits in terms of usability, interpretability, alignment with global best practices, or facilitation of implementation.
+
+6. **Supporting Materials** (where applicable)
+* Relevant resources or documentation that support the proposal may include:
+* Links to related standards, policies, or frameworks
+* References to prior discussions or expert consultations
+* Case studies, examples, or lessons from implementation
+
+*This template helps ensure that each proposed change is well-documented, reasoned, and accessible for review by stakeholders. It also supports the DPG Standard’s commitment to open, evidence-informed governance.*
 
 **3b(ii) Classifications of Modifications**
 
@@ -83,6 +127,20 @@ Community engagement is a key aspect of the Change Proposal Process. Stakeholder
 Not that for decisions regarding fundamental changes in the DPG Standard need to be approved by the Chief Executive Officer of the DPGA, after which they are opened for comments from the Community. 
 
 _*Relevant topics to the community can be opened for a longer duration for discussion if deemed necessary by the Standard Council._
+
+⚠️ **Expectations for Contributors Commenting on Change Proposals by the DPG Standard Council**
+
+When reviewing or responding to formal change proposals initiated by the DPG Standard Council, contributors are kindly requested to:
+1. 	Engage Constructively: Focus on enhancing the Standard. Provide constructive feedback with clear suggestions for refinement and improvement.
+2. 	Support Your Input: Back your comments with rationale and where possible, reference:
+·   	Practical use cases
+·   	Relevant international or open standards
+·   	Examples from the open source or DPG ecosystem
+3. Respect the Process and Roles: The Standard Council is responsible for synthesizing input and recommending changes. Comments should inform and support the process, not attempt to override it.
+4. Be Timely and Relevant: Participate during the specified consultation period. If your concern falls outside the current scope, note this respectfully and consider raising a new issue separately.
+5. 	Maintain Focus: Keep discussions on-topic, related to the specific proposal under review. Please avoid introducing unrelated matters within the same thread.
+6. 	Disclose Conflicts of Interest (If Applicable): If you represent an organization or project that may be affected by the proposed changes, please disclose this context transparently.
+
 
 **3b(iv) Amendments Review by Standard Council**
 
