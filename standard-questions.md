@@ -76,7 +76,7 @@ __Where is your solution's source hosted?__
                     </li>
                     <li> Where is the owner based?* <br>Please select the country where the organization is legally established or registered.
                     </li>
-                    <li> Do you own all of the code, content and/or data in this solution?* <br>For open content collections and open datasets, please indicate whether all of the content/data is owned/licensed by the owner indicated above. For open software, please indicate if you own the code copyright. For open AI systems, please indicate if both the training data and code is owned or licensed.
+                    <li> Do you own all of the code, content and/or data in this solution?* <br>For open content collections and open datasets, please indicate whether all of the content/data is owned/licensed by the owner indicated above. For open software, please indicate if you own the code copyright. For Open AI systems, please specify if both the training data and source code are either owned by the project or properly licensed for open use.
                     </li>
                     <li>[If No] Do you have the right to re-distribute this data, content or code?* <br>Provide evidence to demonstrate the right to reproduce and/or distribute all of the content or datasets included in the solution. Acceptable evidence includes licensing agreements for copyright work or evidence of public domain for copyright-free work. For code, this could be a Contributor License Agreement.
                     </li>
@@ -151,7 +151,7 @@ __Where is your solution's source hosted?__
         </tr>
         <tr>
             <td valign="top">9 A. Data Privacy & Security</td>
-            <td valign="top">If your digital solution allows implementors to collect, store and/or distribute PII data (personally identifiable information), then you must demonstrate how the privacy, security and integrity of this data can be ensured. For AI systems, also consider if the training data contains PII data.
+            <td valign="top">If your digital solution allows implementors to collect, store and/or distribute PII data (personally identifiable information), then you must demonstrate how the privacy, security and integrity of this data can be ensured. For AI systems, also consider if the training data includes PII data.
             </td>
             <td valign="top">
                 <ul>
@@ -169,7 +169,7 @@ __Where is your solution's source hosted?__
         </tr>
         <tr>
             <td valign="top">9 B. Inappropriate, Misleading & Illegal Content</td>
-            <td valign="top">If your digital solution collects, stores and distributes content or allows implementers, then you must have policies identifying inappropriate, misleading, and/or illegal content such as child sexual abuse materials in addition to processes for detecting, moderating, reporting, and removing such inappropriate, misleading, or illegal content.
+            <td valign="top">If your digital solution enables the collection, storage or distribution of content, then you must have mechanisms for identifying inappropriate, misleading, and/or illegal content such as child sexual abuse materials, in addition to processes for detecting, moderating, reporting, and removing such inappropriate, misleading, or illegal content.
             </td>
             <td valign="top">
                 <ul>
@@ -177,7 +177,7 @@ __Where is your solution's source hosted?__
                     </li>
                     <li>What are the types of content that can be collected / stored / distributed?<br>Please list the types of content.
                     </li>
-                    <li>How does your solution handle inappropriate, misleading and illegal content?<br>Please describe (1) the policies for identifying inappropriate, misleading and illegal content and (2) the processes for detecting, moderating, reporting and removing inappropriate/ misleading / illegal content. Please include the average response time for assessment and/or action.
+                    <li>How does your solution handle inappropriate, misleading and illegal content?<br>Please describe (1) the mechanisms for identifying inappropriate, misleading and illegal content and (2) the processes for detecting, moderating, reporting and removing inappropriate/ misleading / illegal content. Please include the average response time for assessment and/or action.
                     </li>
                 </ul>
             </td>
