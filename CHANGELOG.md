@@ -4,6 +4,15 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.7] 2025-06-26  
+Added  
+- Added proposal clarifying mandatory components for AI Systems seeking DPG recognition under the DPG Standard: Approved by the DPG Standard Council after public comment period was completed. [#193](https://github.com/DPGAlliance/dpg-standard/issues/193)  
+- Added proposal requiring only fully open-licensed content collections and data sets for qualification as a DPG: Approved by the DPG Standard Council after public comment period was completed. [#186](https://github.com/DPGAlliance/dpg-standard/issues/186)  
+
+## Changed  
+- Removed specific example from Indicator 8 for clarity and neutrality: Approved by the DPG Standard Council after public comment period was completed. [#200](https://github.com/DPGAlliance/dpg-standard/issues/200)  
+  
+
 ## [1.1.6] 2024-07-01
 
 ### Added
