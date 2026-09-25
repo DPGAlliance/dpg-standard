@@ -13,13 +13,13 @@ A DPGA Collection of open-source solutions that function as **foundational build
 
 ## Objectives
 
-Unlike broader DPGs, solutions in this collection are specifically designed to be **reusable across sectors, interoperable through open standards, and deployable at national scale**. The Collection helps countries identify trusted, proven open-source options for their core digital public infrastructure — covering **identity, payments, data exchange, registries, and trust services** — reducing the need to build from scratch and accelerating safe, inclusive digital transformation.
+Unlike broader DPGs, solutions in this Collection are specifically designed to be **reusable across sectors, interoperable through open standards, and deployable at national scale**. The Collection helps countries identify trusted, proven open-source options for their core digital public infrastructure — covering **identity, payments, data exchange, registries, and trust services** — reducing the need to build from scratch and accelerating safe, inclusive digital transformation.
 
-The public collection is available in the [DPG Registry](https://www.digitalpublicgoods.net/collections/coll-dpi).
+The Collection is available in the [DPG Registry](https://www.digitalpublicgoods.net/collections/coll-dpi).
 
 ## How the criteria are built
 
-The collection asks one focused question: *does this DPG function as a building block for digital public infrastructure — or is it general-purpose govtech?* It answers it through a layered model:
+The Collection asks one focused question: *does this DPG function as a building block for digital public infrastructure — or is it general-purpose govtech?* It answers it through a layered model:
 
 1. **Layer 1 — Prerequisite:** the solution is a recognized DPG in the [DPG Registry](https://www.digitalpublicgoods.net/registry).
 2. **Layer 2 — DPI relevance:** a gateway test (domain fit, cross-sector reusability, population-scale intent). All three must be true.
@@ -39,7 +39,7 @@ This is a working draft. We would value community input on, in particular:
 
 ## How to contribute
 
-1. **Discuss:** comment on the open pull request for this collection, or open an issue.
+1. **Discuss:** comment on the open pull request for this Collection, or open an issue.
 2. **Propose changes:** open a pull request editing [`criteria.md`](./criteria.md) and add a matching entry to [`CHANGELOG.md`](./CHANGELOG.md).
 3. Please follow the repository [Code of Conduct](../../CODE_OF_CONDUCT.md).
 
