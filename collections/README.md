@@ -8,7 +8,8 @@ Each collection applies a small set of **supplementary criteria** on top of the 
 
 | Collection | Status | Criteria | Changelog |
 | :-- | :-- | :-- | :-- |
-| [DPGs for AI](./dpgs-for-ai/) | Draft for community input | [criteria.md](./dpgs-for-ai/criteria.md) | [CHANGELOG.md](./dpgs-for-ai/CHANGELOG.md) |
+| [DPGs for AI](./dpgs-for-ai/) | Published | [criteria.md](./dpgs-for-ai/criteria.md) | [CHANGELOG.md](./dpgs-for-ai/CHANGELOG.md) |
+| [DPGs for DPI](./dpgs-for-dpi/) | Published | [criteria.md](./dpgs-for-dpi/criteria.md) | [CHANGELOG.md](./dpgs-for-dpi/CHANGELOG.md) |
 
 ## Folder structure
 
