@@ -1,0 +1,16 @@
+[default]
+extend-ignore-identifiers-re = [
+    "AttributeID.*Supress.*",
+]
+
+[default.extend-identifiers]
+AttributeIDSupressMenu = "AttributeIDSupressMenu"
+
+[default.extend-words]
+# words that should not be corrected
+dot_acn = ".acn"
+dot_fot = ".fot"
+dot_ist = ".ist"
+
+[files]
+extend-exclude = []

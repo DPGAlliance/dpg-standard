@@ -32,7 +32,7 @@ flowchart LR
     C --> E(Waiting for Clarifications &lpar;Applicant&rpar;)
     E --> A
     F -->|Yes| G(DPG)
-    F -->|No| H(Inelligible)
+    F -->|No| H(Ineligible)
     classDef default font-variant:small-caps,font-family:courier,stroke:#333,color:#000;
     style A fill:#FBF7EF;
     style B fill:#FAC610;
