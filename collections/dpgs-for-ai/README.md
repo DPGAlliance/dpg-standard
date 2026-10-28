@@ -2,7 +2,7 @@
 
 A DPGA Collection that highlights Digital Public Goods enabling the **ethical and responsible development of AI** in support of the SDGs, with particular attention to low-resource contexts and underrepresented domains.
 
-**Status:** 🟡 Draft criteria, open for community input
+**Status:** 🟢 Published
 **Co-stewards & partners:** Digital Public Goods Alliance (DPGA), with input from the [Open Data Institute (ODI)](https://theodi.org/), the [United Nations International Computing Centre (UNICC)](https://www.unicc.org/), and [Digital Futures Lab](https://digitalfutureslab.in/).
 
 ## Contents
