@@ -1,6 +1,6 @@
 # DPGs for AI — Technical Criteria
 
-**Status:** Draft for community input · **Version:** 0.1.0 (unreleased)
+**Status:** Published · **Version:** 0.1.0
 **Co-stewards & partners:** Digital Public Goods Alliance (DPGA), with input from the [Open Data Institute (ODI)](https://theodi.org/), the [United Nations International Computing Centre (UNICC)](https://www.unicc.org/), and [Digital Futures Lab](https://digitalfutureslab.in/).
 
 > This is a working draft published for open review. Nothing here is final. See [`CHANGELOG.md`](./CHANGELOG.md) for version history and the pull request thread for the discussion that produced it.
